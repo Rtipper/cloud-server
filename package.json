@@ -1,0 +1,14 @@
+{
+  "name": "cloud-server",
+  "version": "1.0.0",
+  "description": "AWS Demo Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ryan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
